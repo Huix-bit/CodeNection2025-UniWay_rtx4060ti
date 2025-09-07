@@ -1,5 +1,5 @@
 # CodeNection2025-UniWay_rtx4060ti
-UniWay — A campus safety app prototype with SOS alerts, announcements, and AI-driven smart evacuation.
+UniWay is a campus safety app prototype that provides real-time support during emergencies. It features instant alerts, communication tools, and AI-driven smart evacuation to guide students safely through crowds and alternative routes.
 # 🚀 **UniWay: CodeNection 2025**
 -----------------------------------------
 # **Track & Problem Statement**
