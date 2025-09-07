@@ -28,7 +28,7 @@ UniWay also functions as an AI-driven evacuation tool, guiding students through 
 ## **Demo And Documentation**
 
 **Video Presentation**: https://youtu.be/HzrItxfvTAs
-**Presentation Slide (UI Design + Prototype)**: 
+**Presentation Slide (UI Design + Prototype)**:https://drive.google.com/file/d/1m6NcFEdGKTVP9tPBtbIq9IEwI7BMn0WR/view?usp=sharing 
 
 ## 🔹 **How to View the UI**
  All UI screens are included in the presentation slides.
