@@ -47,6 +47,6 @@ UniWay also functions as an AI-driven evacuation tool, guiding students through 
 **Meet our amazing team**:
 
 - 👨‍💻 **Tze Hern** - Team Member
-- 👩‍💻 **Xin Hu** - Team Member
+- 👩‍💻 **Xin Hui** - Team Member
 - 👩‍💻 **Elysia** – Team Member
 - 👨‍💻 **Zhao Wei** - Team Member
